@@ -227,14 +227,17 @@
 .main__content h2 {
     font-size: 3rem;
     margin-top: 10px;
+    font-weight: 700;
+    margin: 3rem;
     color: #FF7F50;
 }
 
 .main__content p {
     margin-top: 1rem;
-    font-size: 2rem;
+    font-size: 1rem;
     font-weight: 700;
-    /* color: #FF7F50; */
+    margin-bottom: 1rem;
+    color: #FF7F50;
 }
 
 .main__btn {
